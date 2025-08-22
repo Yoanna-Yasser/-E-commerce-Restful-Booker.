@@ -1,8 +1,9 @@
 # Project name
-Automationexercise
+E-commerce + Restful Booker
 
 ## Project idea
-Automationexercise is for manual, automation and API testing
+- E-commerce is for manual and automation.
+- Restful Booker is for API testing
 
 ## Team members
 - Yoanna Yasser Yousry
