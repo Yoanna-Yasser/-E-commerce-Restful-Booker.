@@ -13,9 +13,9 @@ E-commerce + Restful Booker
 - Karim hamada
 
 ## Work Plan
--Manual 
--Automation
--KPIS KEYS
+- Manual 
+- Automation
+- KPIS KEYS
 ## Roles 
 - test lead/requirement
 - manual test engineer
