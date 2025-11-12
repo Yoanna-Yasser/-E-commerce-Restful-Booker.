@@ -12,6 +12,10 @@ E-commerce + Restful Booker
 - Naglaa mohamed fathy 
 - Karim hamada
 
+## Work Plan
+-Manual 
+-Automation
+-KPIS KEYS
 ## Roles 
 - test lead/requirement
 - manual test engineer
